@@ -10,6 +10,7 @@ public class task1 {
  #####
 ######
         в зависимоти от высоты n. n > 0, n < 100;*/
+
         System.out.println("123");
     }
 }
