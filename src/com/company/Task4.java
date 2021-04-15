@@ -7,7 +7,7 @@ s2 = "vvvbbb";
 
 resulted sting is "abcvvvbbbeee";
  */
-public class task4 {
+public class Task4 {
     public static void main(String[] args) {
         String one = "abceee";
         String two = "vvvbbb";

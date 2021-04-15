@@ -14,7 +14,7 @@ class Employee {
 
 2.2 создать список из таких элементов и отсортировать по зарплате.
  */
-public class task7 {
+public class Task7 {
     public static void main(String[] args) {
 
     }

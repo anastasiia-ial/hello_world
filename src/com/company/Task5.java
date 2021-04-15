@@ -9,7 +9,7 @@ Love
 Java
 Programming
  */
-public class task5 {
+public class Task5 {
     public static void main(String[] args) {
         print(divide("ILoveJavaProgramming"));
         print(divide("тестТЕСтТестТТТесТтеСт"));
